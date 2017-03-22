@@ -34,5 +34,6 @@
             android:id="@+id/txtSaludo"
             android:textSize="18sp"
             android:textStyle="normal|italic" />
+
     </LinearLayout>
 </RelativeLayout>
